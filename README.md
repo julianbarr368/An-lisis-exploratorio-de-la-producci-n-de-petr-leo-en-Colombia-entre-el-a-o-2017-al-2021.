@@ -5,6 +5,8 @@ Se realiza un análisis exploratorio de los datos de 5 datasets diferentes que c
 sobre la producción mensual de los principales pozos petroleros de Colombia entre los años 2017 al 2021.
 Buscando responder como afecto la pandemia del covid-19 la producción general de petróleo.
 
+Link proyecto Deepnote: https://deepnote.com/@julianbarr368/Produccion-petroleo-Colombia-2017-2021-0fd3e98d-bed4-4d63-b92c-a6f754667634
+
 
 Carpeta notebooks:
 ==============================
